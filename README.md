@@ -8,7 +8,6 @@
 **Tonton Demo Aplikasi di Bawah Ini!**
 
 ![Chatbot Demo](./assets/chatbot_demo.gif)
-*(Catatan: Ganti nama file ini sesuai nama GIF yang kamu upload nanti)*
 
 ---
 
